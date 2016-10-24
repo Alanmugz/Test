@@ -10,7 +10,7 @@ namespace TravisTest
 	{
 		static void Main(string[] args)
 		{
-			Console.Write("TEST");
+			Console.Write("TEST This");
 		}
 	}
 }
