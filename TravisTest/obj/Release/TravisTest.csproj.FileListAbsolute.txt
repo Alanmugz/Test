@@ -1,0 +1,5 @@
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\bin\Release\TravisTest.exe.config
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\bin\Release\TravisTest.exe
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\bin\Release\TravisTest.pdb
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\obj\Release\TravisTest.exe
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\obj\Release\TravisTest.pdb

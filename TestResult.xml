@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.6.0.0" clr-version="4.0.30319.42000" start-time="2017-02-14 21:52:08Z" end-time="2017-02-14 21:52:09Z" duration="1.058754">
+  <command-line><![CDATA["C:\Users\amulligan\Documents\GitHub\Test\testrunner\NUnit.ConsoleRunner.3.6.0\tools\nunit3-console.exe" ./TravisTest.UT/bin/Release/TravisTest.UT.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="TravisTest.UT.dll" fullname="C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Release\TravisTest.UT.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-02-14 21:52:08Z" end-time="2017-02-14 21:52:09Z" duration="0.083049" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.6.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.14393.0" platform="Win32NT" cwd="C:\Users\amulligan\Documents\GitHub\Test" machine-name="LAPTOP-A6VI30HV" user="amulligan" user-domain="LAPTOP-A6VI30HV" culture="en-IE" uiculture="en-GB" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\amulligan\Documents\GitHub\Test" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="17532" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="TravisTest" fullname="TravisTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-02-14 21:52:09Z" end-time="2017-02-14 21:52:09Z" duration="0.058803" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestSuite" id="0-1004" name="UT" fullname="TravisTest.UT" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-02-14 21:52:09Z" end-time="2017-02-14 21:52:09Z" duration="0.055211" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-suite type="TestFixture" id="0-1000" name="Class1" fullname="TravisTest.UT.Class1" classname="TravisTest.UT.Class1" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-02-14 21:52:09Z" end-time="2017-02-14 21:52:09Z" duration="0.048861" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <test-case id="0-1001" name="VerifyAdd" fullname="TravisTest.UT.Class1.VerifyAdd" methodname="VerifyAdd" classname="TravisTest.UT.Class1" runstate="Runnable" seed="568932111" result="Passed" start-time="2017-02-14 21:52:09Z" end-time="2017-02-14 21:52:09Z" duration="0.033854" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
