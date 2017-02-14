@@ -1,0 +1,9 @@
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Debug\TravisTest.UT.dll
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Debug\TravisTest.UT.pdb
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Debug\nunit.framework.dll
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Debug\TravisTest.exe
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Debug\TravisTest.pdb
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\bin\Debug\nunit.framework.xml
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\obj\Debug\TravisTest.UT.csprojResolveAssemblyReference.cache
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\obj\Debug\TravisTest.UT.dll
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest.UT\obj\Debug\TravisTest.UT.pdb

@@ -5,3 +5,9 @@ C:\Users\amulligan\Desktop\Test\TravisTest\bin\Debug\TravisTest.pdb
 C:\Users\amulligan\Desktop\Test\TravisTest\obj\Debug\TravisTest.csprojResolveAssemblyReference.cache
 C:\Users\amulligan\Desktop\Test\TravisTest\obj\Debug\TravisTest.exe
 C:\Users\amulligan\Desktop\Test\TravisTest\obj\Debug\TravisTest.pdb
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\bin\Debug\TravisTest.exe.config
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\obj\Debug\TravisTest.exe
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\obj\Debug\TravisTest.pdb
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\bin\Debug\TravisTest.exe
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\bin\Debug\TravisTest.pdb
+C:\Users\amulligan\Documents\GitHub\Test\TravisTest\obj\Debug\TravisTest.csprojResolveAssemblyReference.cache

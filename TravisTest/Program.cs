@@ -1,16 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace TravisTest
 {
-	class Program
+	public class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.Write("TEST This");
+			var _test = new Test();
+
+			_test.Add(2, 9);
 		}
 	}
 }
