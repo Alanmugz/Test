@@ -6,3 +6,5 @@ install:
 script:
   - xbuild /p:Configuration=Release TravisTest.sln
   - mono ./testrunner/NUnit.ConsoleRunner.3.6.0/tools/nunit3-console.exe ./TravisTest.UT/bin/Release/TravisTest.UT.dll
+after_success:
+  - echo "We can put normal shell commands here"
